@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.788afdbd.css",
+    "main.js": "/static/js/main.3eac3041.js",
+    "static/media/texgyreadventor-regular-webfont.woff": "/static/media/texgyreadventor-regular-webfont.170533daac295095da91.woff",
+    "static/media/texgyreadventor-bold-webfont.woff": "/static/media/texgyreadventor-bold-webfont.b09ade75686f7fe923be.woff",
+    "static/media/red-hat-text-v6-latin-500.woff": "/static/media/red-hat-text-v6-latin-500.e18731b0b78ee956bd18.woff",
+    "static/media/red-hat-text-v6-latin-regular.woff": "/static/media/red-hat-text-v6-latin-regular.cc5bfd1a463d50f174f9.woff",
+    "static/media/red-hat-text-v6-latin-500.woff2": "/static/media/red-hat-text-v6-latin-500.9eadaf1e0e897f67a502.woff2",
+    "static/media/red-hat-text-v6-latin-regular.woff2": "/static/media/red-hat-text-v6-latin-regular.f42b9584ab2d46708621.woff2",
+    "index.html": "/index.html",
+    "main.788afdbd.css.map": "/static/css/main.788afdbd.css.map",
+    "main.3eac3041.js.map": "/static/js/main.3eac3041.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.788afdbd.css",
+    "static/js/main.3eac3041.js"
+  ]
+}
