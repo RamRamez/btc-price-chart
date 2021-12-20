@@ -1,8 +1,10 @@
-import { configureStore } from '@reduxjs/toolkit';
-import counterReducer from '../features/counter/counterSlice';
+import { configureStore } from '@reduxjs/toolkit'
+import BTCReducer from '../reducers/BTCSlice'
+import newsReducer from '../reducers/newsSlice'
 
 export const store = configureStore({
   reducer: {
-    counter: counterReducer,
-  },
-});
+    BTC: BTCReducer,
+    news: newsReducer
+  }
+})
